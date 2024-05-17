@@ -1,0 +1,15 @@
+D:\BSUIR\ОКПрог\Лаба4\lab4\lab4\bin\Debug\net6.0\lab4.exe
+D:\BSUIR\ОКПрог\Лаба4\lab4\lab4\bin\Debug\net6.0\lab4.deps.json
+D:\BSUIR\ОКПрог\Лаба4\lab4\lab4\bin\Debug\net6.0\lab4.runtimeconfig.json
+D:\BSUIR\ОКПрог\Лаба4\lab4\lab4\bin\Debug\net6.0\lab4.dll
+D:\BSUIR\ОКПрог\Лаба4\lab4\lab4\bin\Debug\net6.0\lab4.pdb
+D:\BSUIR\ОКПрог\Лаба4\lab4\lab4\obj\Debug\net6.0\lab4.csproj.AssemblyReference.cache
+D:\BSUIR\ОКПрог\Лаба4\lab4\lab4\obj\Debug\net6.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSUIR\ОКПрог\Лаба4\lab4\lab4\obj\Debug\net6.0\lab4.AssemblyInfoInputs.cache
+D:\BSUIR\ОКПрог\Лаба4\lab4\lab4\obj\Debug\net6.0\lab4.AssemblyInfo.cs
+D:\BSUIR\ОКПрог\Лаба4\lab4\lab4\obj\Debug\net6.0\lab4.csproj.CoreCompileInputs.cache
+D:\BSUIR\ОКПрог\Лаба4\lab4\lab4\obj\Debug\net6.0\lab4.dll
+D:\BSUIR\ОКПрог\Лаба4\lab4\lab4\obj\Debug\net6.0\refint\lab4.dll
+D:\BSUIR\ОКПрог\Лаба4\lab4\lab4\obj\Debug\net6.0\lab4.pdb
+D:\BSUIR\ОКПрог\Лаба4\lab4\lab4\obj\Debug\net6.0\lab4.genruntimeconfig.cache
+D:\BSUIR\ОКПрог\Лаба4\lab4\lab4\obj\Debug\net6.0\ref\lab4.dll
